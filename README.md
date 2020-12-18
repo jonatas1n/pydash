@@ -2,7 +2,9 @@
 A Python Dash Project.
 
 <h4>Código de implementação do R2A no Pydash desenvolvido pelo Professor Caetano.</h4>
+
 -----
+
 Estudantes:
 <ul>
   <li> Jônatas Gomes Barbosa da Silva | 17/0059847</li>
